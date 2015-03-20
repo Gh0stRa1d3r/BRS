@@ -4,7 +4,7 @@ import javax.swing.*;
 import javax.swing.border.*;
 /**
  *
- * @author Bentley
+ * 
  */
 public class LoginFrame extends JFrame {
     private static final int FRAME_WIDTH = 600;

@@ -1,7 +1,7 @@
 import javax.swing.JFrame;
 /**
  *
- * @author Bentley
+ * 
  */
 public class BRSFrame {
     public static void main(String[] args){
